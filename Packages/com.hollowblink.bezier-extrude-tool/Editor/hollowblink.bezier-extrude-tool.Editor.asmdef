@@ -1,0 +1,19 @@
+{
+    "name": "hollowblink.bezier-extrude-tool.Editor",
+    "rootNamespace": "hollowblink.bezier-extrude-tool.Editor",
+    "references": [
+        "hollowblink.bezier-extrude-tool.Runtime",
+        "GUID:99093f609c0cd6742b91dab53e7d8d4e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
